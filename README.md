@@ -1,4 +1,4 @@
-# Arbro-Pharamceutical-Task
+# Arbro-Pharamceutical-Internship-Task
 Contains the project links for arbro pharmaceutical internship task
 
 Description of the files:-
