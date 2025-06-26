@@ -1,4 +1,5 @@
-# Arbro-Pharamceutical-Internship-Task
+# Arbro-Pharamceutical-Internship-Task - Priyanshu Satapathy
+
 Contains the project links for arbro pharmaceutical internship task
 
 Description of the files:-
